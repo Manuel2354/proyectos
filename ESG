@@ -48,7 +48,7 @@ El resultado se presenta en un tablero creado en Power BI, que muestra:
 | `ESG.xlsx`               | Output final con los datos combinados              |
 | `ESG.jpg`                | Imagen del dashboard exportado                    |
 
-## 📌 Notas
+##  Notas
 
 - Nota: El rendimiento acumulado fue calculado como la suma de los rendimientos diarios. Este enfoque permite extender el análisis hacia periodos específicos (por ejemplo, por año) o construir comparativas evolutivas en el tiempo.
 - El código es escalable para incluir nuevos criterios o países en el futuro.
